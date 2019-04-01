@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+将删除 .gitignore
+将删除 get_data.py
+将删除 get_data.pyc
+将删除 model.pyc
+将删除 submisssion/
+将删除 test.py
+/.ipynb_checkpoints/
+/submission_code/
+/data/.ipynb_checkpoints/
+/data/all_data.csv
+/data/atec_nlp_sim_train_add.csv
+/word_embedding/
+/.idea/
+/.git/
+/data/feature_table.csv
+/data/all_data
+*.pyc
+将删除 __pycache__/
